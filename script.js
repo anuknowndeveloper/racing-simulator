@@ -1,4 +1,4 @@
-//all the code that is commened out is junk code.
+//all the code that is commetned out is junk code.
 window.onload = () => {
 var canvas = document.querySelector('canvas');
 var times = 10;
